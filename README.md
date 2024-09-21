@@ -2,9 +2,9 @@
 layout: cv
 title: Christian Belloni's CV
 ---
-<div style="display: flex; justify-content: space-between; align-items:center; padding: 50px;">
+<div style="display: flex; justify-content: space-between; align-items:center;">
     <h1>Christian Belloni</h1>
-    <img src="./media/cv_image.jpg" style="height: 150px;"/>
+    <img src="./media/cv_image.jpg" style="height: 150px; padding: 0px 50px;"/>
 </div>
 __Software developer__
 <div id="webaddress">
