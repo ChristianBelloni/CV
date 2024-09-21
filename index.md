@@ -4,7 +4,7 @@ title: Christian Belloni's CV
 ---
 <div style="display: flex; justify-content: space-between; align-items:center; padding: 50px;">
     <h1>Christian Belloni</h1>
-    <img src="./media/cv_image.jpg" style="position: absolute; height: 150px; right: 25%"/>
+    <img src="./media/cv_image.jpg" style="height: 150px;"/>
 </div>
 __Software developer__
 <div id="webaddress">
@@ -72,21 +72,6 @@ __rules_uniffi__, Bazel ruleset to generate Swift and Kotlin bindings from a rus
 __rules_mobile_assets__, Bazel ruleset to manage mobile application's assets
 
 
-## Relevant skills
-
-### Sqlite
-
-### Postgres
-
-### Rust
- - Tokio
- - Axum
- - Serde
-
-### Swift
- - SwiftUI
- - App extensions
-
 ## Languages
 
 __Italian__, native
@@ -95,6 +80,6 @@ __English__, work proficiency
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: September 2024 -->
 
 
