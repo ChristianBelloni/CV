@@ -4,7 +4,7 @@ title: Christian Belloni's CV
 ---
 <div style="display: flex; justify-content: space-between; align-items:center; padding: 50px;">
     <h1>Christian Belloni</h1>
-    <img src="media/CV_Image.jpg" style="position: absolute; height: 150px; right: 25%"/>
+    <img src="/media/CV_Image.jpg" style="position: absolute; height: 150px; right: 25%"/>
 </div>
 __Software developer__
 <div id="webaddress">
