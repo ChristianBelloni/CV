@@ -1,88 +1,96 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Christian Belloni's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
+<div style="display: flex; justify-content: space-between; align-items:center; padding: 50px;">
+    <h1>Christian Belloni</h1>
+    <img src="media/CV_Image.jpg" style="position: absolute; height: 150px; right: 25%"/>
+</div>
+__Software developer__
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:christianbelloni@hotmail.it">christianbelloni@hotmail.it</a>
+| <a href="https://github.com/ChristianBelloni">GitHub</a>
+| <a href="https://www.linkedin.com/in/christian-belloni-8b0406145/">LinkedIn</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Software developer at BabylonCloud
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Rust, SwiftUI, Bazel
 
 
-### Research interests
+## Work experiences
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`2021 - Present`
+__Software developer__, *Babylon Cloud S.p.a.*
 
+Babylon cloud is a leading italian company in the cloud storage space
 
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- __Achievements and responsibilities:__
+    - Developed key, business critical features in Rust
+    - Desktop and Mobile development using SwiftUI and Android Compose
+    - Sped up compilation times by 50% migrating our build system to bazel
+    - Decreased backup times and increased backup reliability
+    - Drasticly decreased memory usage while synchronizing cloud and local filesystems
+    - Developed from the ground up our iOS CI/CD pipeline ensuring a fast development cycle
 
 
+ 
 
-## Awards
+`2020 - Present`
+__Freelance software developer__, *Alba S.r.l.*, *Loas S.r.l.*
+ - WebApp development
+ - Desktop development
+- __Achievements and responsibilities:__
+    - Collected features requests and compiled a technical document to express the client's MVP requirements
+    - Developed the product and managed the deployment process
+    - Setup CI/CD from github to digital ocean
+    - Managed to have zero down times since the initial shipment
+    - Developed an internal tool to organize and print ZPL barcodes to ease the packaging process
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2018 - 2020`
+__Factory worker__, *Loas S.r.l.*
 
 
-## Occupation
+## Open-source projects
 
-`1600`
-__Royal Mint__, London
+### Rust
 
-- Warden
-- Minted coins
+__sciport-rs__, Rust rewrite of scipy
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+__complex-bessel-rs__ Rust bindings to Amos's complex-bessel fortran library
+
+### Bazel
+
+__rules_uniffi__, Bazel ruleset to generate Swift and Kotlin bindings from a rust library
+
+__rules_mobile_assets__, Bazel ruleset to manage mobile application's assets
 
 
+## Relevant skills
+
+### Sqlite
+
+### Postgres
+
+### Rust
+ - Tokio
+ - Axum
+ - Serde
+
+### Swift
+ - SwiftUI
+ - App extensions
+
+## Languages
+
+__Italian__, native
+
+__English__, work proficiency
 
 <!-- ### Footer
 
