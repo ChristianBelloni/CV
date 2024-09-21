@@ -2,7 +2,7 @@ name: Webpage to PDF
 on:
   push:
     tags:
-      - '[0-9]{2}/[0-9]{2}/[0-9]{4}'
+      - '[0-9]{2}_[0-9]{2}_[0-9]{4}'
 jobs:
   export-pdf:
     runs-on: ubuntu-latest
