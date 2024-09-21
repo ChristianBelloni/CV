@@ -44,8 +44,6 @@ Babylon cloud is a leading italian company in the cloud storage space
 
 `2020 - Present`
 __Freelance software developer__, *Alba S.r.l.*, *Loas S.r.l.*
- - WebApp development
- - Desktop development
 - __Achievements and responsibilities:__
     - Collected features requests and compiled a technical document to express the client's MVP requirements
     - Developed the product and managed the deployment process
