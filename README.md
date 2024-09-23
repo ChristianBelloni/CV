@@ -26,7 +26,7 @@ Rust, SwiftUI, Bazel
 
 ## Work experiences
 
-`2021 - Present`
+`2022 - Present`
 __Software developer__, *Babylon Cloud S.p.a.*
 
 Babylon cloud is a leading italian company in the cloud storage space
