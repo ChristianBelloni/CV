@@ -51,7 +51,7 @@ __Freelance software developer__, *Alba S.r.l.*, *Loas S.r.l.*
     - Managed to have zero down times since the initial shipment
     - Developed an internal tool to organize and print ZPL barcodes to ease the packaging process
 
-`2018 - 2020`
+`2018 - 2022`
 __Factory worker__, *Loas S.r.l.*
 
 
